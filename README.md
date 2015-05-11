@@ -23,7 +23,7 @@ EZAuction is an auction addon to help sell your items by adding features to the 
     Prevent AH from resetting to the first page after bid/buyout
 
 #Known issues:
-none 
+    None 
 
 #Change log:
     Updated: Updated to API 10
